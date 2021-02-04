@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 07 13:25:43 MSK 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1607100662891
+f8b7a6dc80bc7c221d521e01a7dcf432493ca47b@default-central-http\://repository.ruslan.ru/artifactory/libs-snapshot-local/.lastUpdated=1607100769030
+f8b7a6dc80bc7c221d521e01a7dcf432493ca47b@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1607100713517
+c06cb71d3e5466df33cfe671306e1e2208c13ff4@default-central-http\://repository.ruslan.ru/artifactory/libs-snapshot-local/.lastUpdated=1607100834870
+d958eddaf01a5b0da27f51834e3051bde37bfb5f@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1607168858205
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1607336742520
+http\://repository.ruslan.ru/artifactory/libs-snapshot-local/.error=Could not transfer artifact com.ols.z3950\:jrzs-int\:pom\:2.0.1 from/to central (http\://repository.ruslan.ru/artifactory/libs-snapshot-local)\: Authentication failed for http\://repository.ruslan.ru/artifactory/libs-snapshot-local/com/ols/z3950/jrzs-int/2.0.1/jrzs-int-2.0.1.pom 401 Unauthorized
+d958eddaf01a5b0da27f51834e3051bde37bfb5f@default-central-http\://repository.ruslan.ru/artifactory/libs-snapshot-local/.lastUpdated=1607171941085
+https\://repo.maven.apache.org/maven2/.lastUpdated=1607336709347
+https\://repo.maven.apache.org/maven2/.error=
+http\://repository.ruslan.ru/artifactory/libs-release-local/.lastUpdated=1607336743288
+http\://repository.jboss.org/nexus/content/groups/public/.error=

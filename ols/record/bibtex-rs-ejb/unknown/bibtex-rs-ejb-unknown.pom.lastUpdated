@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 04 15:34:06 MSK 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1607085246411
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.ols.record\:bibtex-rs-ejb\:pom\:unknown from/to central (https\://repo.maven.apache.org/maven2)\: Transfer failed for https\://repo.maven.apache.org/maven2/com/ols/record/bibtex-rs-ejb/unknown/bibtex-rs-ejb-unknown.pom

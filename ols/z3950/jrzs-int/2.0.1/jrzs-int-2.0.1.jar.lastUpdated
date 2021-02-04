@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 07 13:25:48 MSK 2020
+d958eddaf01a5b0da27f51834e3051bde37bfb5f@default-central-http\://repository.ruslan.ru/artifactory/libs-snapshot-local/.lastUpdated=1607168859757
+http\://repository.ruslan.ru/artifactory/libs-release-local/.lastUpdated=1607336748615
+https\://repo.maven.apache.org/maven2/.lastUpdated=1607336737167
+f8b7a6dc80bc7c221d521e01a7dcf432493ca47b@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1607100714040
+http\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1607336747910
+http\://repository.ruslan.ru/artifactory/libs-snapshot-local/.error=Could not transfer artifact com.ols.z3950\:jrzs-int\:jar\:2.0.1 from/to central (http\://repository.ruslan.ru/artifactory/libs-snapshot-local)\: Authentication failed for http\://repository.ruslan.ru/artifactory/libs-snapshot-local/com/ols/z3950/jrzs-int/2.0.1/jrzs-int-2.0.1.jar 401 Unauthorized
+https\://repo.maven.apache.org/maven2/.error=
